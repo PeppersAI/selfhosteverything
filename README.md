@@ -12,11 +12,17 @@ The following is a list of softwares that will be included in the installer and 
 # The main services a user accesses in a cloud
 
 Documents: PaperlessNGX, a paperles document filing system. This is used to create digital backups of physical letters or file things appropriately with their internal AI. Pretty useful, user friendly, included for utility.
+
 Photographs: Immich server, a way to backup all photos and videos from your phone privately without relying on 3rd party cloud services like icloud or google photos.
-Media: Jellyfin, a media organiser and server. The reason I chose jellyfin is because it is lightweight, can be customised and has a fairly simple interface that most people would be familiar with. There are also projects like jellify that are an excellent attempt to replace spotify.
+
+Media: Jellyfin, a media organiser and server. The reason I chose jellyfin is because it is lightweight, can be customised and has a fairly simple interface that most people would be familiar with. There are also projects like jellify that are an excellent attempt to replace spotify
+
 Storage: Nextcloud or syncthing or samba, haven't decided. But a shared documents folder that's jsut like a onedrive or google drive area for people to be able to drop files.
+
 Security: Bitwarden, a password manager that allows you to self host your own password vault on an encrypted part of the drive. Will possibly use this in the account creation process?
+
 Networking: Tailscale, afaik a frontend for wireguard but it is sucha fantastic piece of software that allows all of the netwrokign to take place without any static IP and all through an encrypted "home network" style connection that allows the admin to set ACLs and profiles for different users. E.g. Set a child's profile with content filters.
+
 Search: SearXNG, a metasearch engine that scrapes multiple sites for different answers. Removes ads in searches etc.
 
 # Possible roadmap
